@@ -21,8 +21,4 @@ const InfoBox = ({
   );
 };
 
-// const InfoBox = (props) => {
-//   console.log(props);
-// }
-
 export default InfoBox
